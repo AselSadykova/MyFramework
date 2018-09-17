@@ -7,7 +7,7 @@ public class ContactBean {
 	private String cellPhone;
 	private String department;
 	private String email;
-//comment
+//comment, com
 	public String getFirstName() {
 		return firstName;
 	}
